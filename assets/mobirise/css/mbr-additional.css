@@ -2435,7 +2435,7 @@ section.lazy-placeholder:after {
   width: 100%;
 }
 .cid-rKoQrm3tJ2 {
-  padding-top: 90px;
+  padding-top: 105px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/colorguard-1-2000x1333.jpeg");
 }
@@ -2452,8 +2452,7 @@ section.lazy-placeholder:after {
   -webkit-flex-basis: auto;
 }
 .cid-rKoQrm3tJ2 .mbr-testimonial .panel-item {
-  background-color: #55b4d4;
-  background: linear-gradient(#55b4d4, transparent);
+  background-color: #149dcc;
 }
 .cid-rKoQrm3tJ2 .mbr-testimonial .card-block {
   -webkit-flex-grow: 0;
@@ -2885,6 +2884,14 @@ section.lazy-placeholder:after {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rKp7rS1GUu {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #efefef;
+}
+.cid-rKp7rS1GUu .mbr-section-subtitle {
+  color: #767676;
+}
 .cid-rK6o5h6IeA {
   padding-top: 15px;
   padding-bottom: 15px;
@@ -2981,8 +2988,7 @@ section.lazy-placeholder:after {
   -webkit-flex-basis: auto;
 }
 .cid-rKoOBVYNQb .mbr-testimonial .panel-item {
-  background-color: #55b4d4;
-  background: linear-gradient(#55b4d4, transparent);
+  background-color: #149dcc;
 }
 .cid-rKoOBVYNQb .mbr-testimonial .card-block {
   -webkit-flex-grow: 0;
@@ -3413,6 +3419,14 @@ section.lazy-placeholder:after {
 .cid-qTkzRZLJNu .nav-link:hover,
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
+}
+.cid-rKp9f46R4J {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #efefef;
+}
+.cid-rKp9f46R4J .mbr-section-subtitle {
+  color: #767676;
 }
 .cid-rK6o5h6IeA {
   padding-top: 15px;
@@ -3892,7 +3906,6 @@ section.lazy-placeholder:after {
 }
 .cid-rKp1fZC8LD .mbr-testimonial .panel-item {
   background-color: #55b4d4;
-  background: linear-gradient(#55b4d4, transparent);
 }
 .cid-rKp1fZC8LD .mbr-testimonial .card-block {
   -webkit-flex-grow: 0;
@@ -3941,6 +3954,14 @@ section.lazy-placeholder:after {
   background-color: #efefef;
 }
 .cid-rKp1Tm0BXp P {
+  color: #767676;
+}
+.cid-rKp9iNCXfr {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #efefef;
+}
+.cid-rKp9iNCXfr .mbr-section-subtitle {
   color: #767676;
 }
 .cid-rK6o5h6IeA {
