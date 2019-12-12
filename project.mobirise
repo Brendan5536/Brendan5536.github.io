@@ -69,9 +69,7 @@
     "robotsSwitcher": true,
     "gdpr": false,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\nUser-agent: Googlebot-Image\nDisallow: /",
-    "screenshot": "screenshot.png",
-    "publishType": "local",
-    "publishPath": "file:///C:/Users/Brendan/Documents"
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
