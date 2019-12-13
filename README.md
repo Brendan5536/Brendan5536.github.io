@@ -1,2 +1,2 @@
-# Brendan5536.github.io
-This is the official website for George Boardman, which can be found at https://boardmanusa.net. Not sure why I decided to make this public, but enjoy.
+# www.boardmanusa.net
+This is the official website for George Boardman, which could formerly be found at https://boardmanusa.net. We were given until midnight on the 13th of December to 'shut the site down', so we complied and took down the site.
